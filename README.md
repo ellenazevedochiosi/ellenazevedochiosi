@@ -6,7 +6,7 @@
 - 💻 Tenho conhecimento básico em Python e MySQL, e estou trabalhando para aprimorar minhas habilidades nessas áreas.
 - 📊 Tenho experiência com o Microsoft Excel e estou disposta a aprender e crescer em minhas habilidades de análise de dados.
 - 🌐 Tenho conhecimento básico em inglês.
-- 💞 Estou interessada em colaborar em projetos relacionados a análise de dados.
+- 💞 Estou iniciando minha jornada relacionada a análise de dados.
 
 📫 Você pode me contatar pelo e-mail [azevedo.beauty@gmail.com] ou seguir-me no [https://www.linkedin.com/in/ellen-azevedo-chiosi-308726228/) para mais informações.
 
